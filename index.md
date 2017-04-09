@@ -4,8 +4,27 @@
 * React
 * Redux
 * NodeJS
+  * nvm
+  * npm
+  * package.json
 * Javascript
 
-## System 
+# Docs
+* Formats
+  * Markdown
+* Conventions
+  * ReadMe.md
+  * CONTRIBUTING.md
+
+# Community Feed
+* Medium
+* Twitter
+* Podcasts
+
+# System 
+* Installation
+  * Homebrew
 * Terminal
-  * Dot Files
+  * iTerm
+* Dot Files
+* SSH Keys
